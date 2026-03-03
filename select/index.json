@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "G行為",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-03-03T05:17:06.479170Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "G行為",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_G行為_RADWIMPS.txt"
+    }
+  ]
+}
